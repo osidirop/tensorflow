@@ -13,3 +13,6 @@ train_datagen = ImageDataGenerator(
       horizontal_flip=True,
       fill_mode='nearest' # for the pixels around 
       )
+     
+For more info on Image Data Preprocessing for Keras see here: https://keras.io/api/preprocessing/image/
+
