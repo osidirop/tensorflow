@@ -1,3 +1,3 @@
 # Natural Language Prosessing
 
-### The following is the public domain dataset based on sarcasm: https://rishabhmisra.github.io/publications/
+### The "NLP_on_sarcasm_dataset.ipynb" takes dataset from here: https://rishabhmisra.github.io/publications/
